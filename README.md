@@ -18,4 +18,4 @@ We have an exciting journey ahead! Check out our [ROADMAP](./ROADMAP.md) to see 
 1. **Fork the Repository**: This creates a copy of the repository in your account.
 2. **Clone the Repository**: This downloads the forked repository on your local machine.
    ```bash
-   git clone https://github.com/asha-shaikh/deep-learning.git
+   git clone https://github.com/ashar-shaikh/deep-learning.git
