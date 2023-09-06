@@ -8,7 +8,7 @@ Welcome to "Deep Learning From Scratch"! This repository is dedicated to buildin
 - **Modular Code**: Each algorithm or model is contained in its folder with an example script for easy understanding.
 
 ## 📁 **Repository Structure**:
-- **[Perceptron](./perceptron/)**: Contains the basic perceptron algorithm and a [Perceptron Example](./perceptron/perceptron_example.py).
+- **[Perceptron](./Perceptron/)**: Contains the basic perceptron algorithm and a [Perceptron Example](./Perceptron/perceptron_example.py).
 - **More to come**: As we progress, we'll be adding Multi-Layer Perceptrons, CNNs, RNNs, and more.
 
 ## 🛤️ [Roadmap](./ROADMAP.md):
