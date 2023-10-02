@@ -2,8 +2,8 @@ import random
 
 class Perceptron():
     def __init__(self, num_features, bias, learning_rate):
-        # self.weight = [random.uniform(-1, 1) for _ in range(num_features)]
-        self.weight = [0 for _ in range(num_features)]
+        self.weight = [random.uniform(-1, 1) for _ in range(num_features)]
+        # self.weight = [0 for _ in range(num_features)]
 
         self.bias = bias
         self.learning_rate = learning_rate
